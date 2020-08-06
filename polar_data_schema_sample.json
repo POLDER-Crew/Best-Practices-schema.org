@@ -1,0 +1,45 @@
+{
+    "@context": {
+        "@vocab": "http://schema.org/",
+        "datacite": "http://purl.org/spar/datacite/",
+        "dbpedia": "http://dbpedia.org/resource/"
+    },
+    "@type": "Dataset",
+    "@id": "https://doi.org/10.0000/0000/plr-stf.123456",
+    "name": "Polar stuff dataset",
+    "description": "A pile of polar stuff.",
+    "url": "https://example.com/polar_stuff_landing_page",
+    "sameAs": "https://some-other.example.com/pslp",
+    "version": "1",
+    "isAccessibleForFree": true,
+    "keywords": [
+        "apples",
+        "oranges",
+        "bananas"
+    ],
+    "license": "https://spdx.org/licenses/ODbL-1.0.html",
+    "identifier": {
+        "@type": [
+            "PropertyValue",
+            "datacite:ResourceIdentifier"
+        ],
+        "datacite:usesIdentifierScheme": {
+            "@id": "datacite:doi"
+        },
+        "propertyID": "DOI",
+        "url": "https://doi.org/10.0000/0000/plr-stf.123456",
+        "value": "10.0000/0000/plr-stf.123456"
+    },
+    "spatialCoverage": {
+        "@type": "Place",
+        "geo": {
+            "@type": "GeoShape",
+            "line": "39.3280,120.1633 40.445,123.7878"
+        },
+        "additionalProperty": {
+            "@type": ["PropertyValue", "dbpedia:Spatial_reference_system"],
+            "@id": "http://www.opengis.net/def/crs/OGC/1.3/CRS84"
+        }
+    },
+    "temporalCoverage": "2019-11-20/2019-11-21"
+}
