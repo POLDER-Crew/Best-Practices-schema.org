@@ -1,0 +1,15 @@
+"schema.org attribute","Google Dataset Search","POLDER Basic","POLDER Spatial","POLDER Time"
+"@context","TRUE","TRUE","TRUE","TRUE"
+"@type (Dataset)","TRUE","TRUE","TRUE","TRUE"
+"@id",,"TRUE","TRUE","TRUE"
+"name","TRUE","TRUE","TRUE","TRUE"
+"description","TRUE","TRUE","TRUE","TRUE"
+"url",,,,
+"sameAs",,,,
+"version",,,,
+"isAccessibleForFree",,,,
+"keywords",,,,
+"license",,,,
+"identifier",,"TRUE","TRUE","TRUE"
+"spatialCoverage",,,"TRUE",
+"temporalCoverage",,,,"TRUE"
