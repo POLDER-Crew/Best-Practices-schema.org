@@ -38,7 +38,7 @@ In many catalogs currently, datasets are listed as ongoing, yet their end dates 
 
 #### Guidance
 
-- Repositories need to update the end date routinely, thouh not more often than once per day
+- Repositories need to update the end date routinely, though not more often than once per day
   - Fundamentally this means that if you are automatically updating your data, you should be automatically updating its metadata as well!
 
 ### Discontinuous, cyclical or seasonal data
