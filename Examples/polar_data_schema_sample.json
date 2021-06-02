@@ -1,7 +1,6 @@
 {
     "@context": {
         "@vocab": "http://schema.org/",
-        "datacite": "http://purl.org/spar/datacite/",
         "dbpedia": "http://dbpedia.org/resource/"
     },
     "@type": "Dataset",
