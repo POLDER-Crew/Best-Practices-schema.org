@@ -19,16 +19,11 @@
     ],
     "license": "https://spdx.org/licenses/ODbL-1.0.html",
     "identifier": {
-        "@type": [
-            "PropertyValue",
-            "datacite:ResourceIdentifier"
-        ],
-        "datacite:usesIdentifierScheme": {
-            "@id": "datacite:doi"
-        },
-        "propertyID": "DOI",
-        "url": "https://doi.org/10.0000/0000/plr-stf.123456",
-        "value": "10.0000/0000/plr-stf.123456"
+        "@id": "doi:10.0000/0000/plr-stf.123456",
+        "@type": "PropertyValue",
+        "propertyID": "https://registry.identifiers.org/registry/doi",
+        "value": "doi:10.0000/0000/plr-stf.123456",
+        "url": "https://doi.org/10.0000/0000/plr-stf.123456"
     },
     "spatialCoverage": {
         "@type": "Place",
