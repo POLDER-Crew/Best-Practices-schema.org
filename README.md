@@ -11,7 +11,9 @@ We welcome and encourage community contributions to the work, including revision
 # Executive Summary
 This document aims to utilize schema.org for the Polar data management community. The community has agreed on and plans on implementing uniform best practices for documenting data, observing assets, and other entities. Extensive work has been conducted under both the Earth Science Information Partnership Science-on-schema.org group and the Research Data Alliance to develop approaches and guidelines for interoperable metadata practices. While the current Science-on-schema.org guidelines provide a strong technical basis for harmonized use of the schema.org vocabulary, they do not make specific requirements for minimal acceptable metadata nor for specific types of metadata requirements for key polar research use cases. This document assembles data discovery use cases and requirements for polar data discovery that represent a target set of features for the POLDER federated search system. Use cases specifically elucidate and prioritize the functional uses of the federated data discovery platform, which will in turn be used to articulate a specific list of metadata requirements needed to implement a discovery system that provides those features.
 
-Completed Google Doc can be found here: https://docs.google.com/document/d/1r4OSRuVBfdJpMbyhjkhghHSeckraFEhxs0f1ld4aGkg/edit
+Completed v1.0 Version Release is now published on Zenodo: https://zenodo.org/record/7787161#.ZE_DZ-xuejA
+
+Citation: Bricher, Pip, Verhey, Chantelle, Duerr, Ruth, Ingram, Rebekah, Pulsifer, Peter, Collins, Julia, Jones, Matthew, de Bruin, Taco, Manley, William, Christoffersen, Shannon, Budden, Amber, Van de Putte, Anton, Gaylord, Allison, Tacoma, Marten, Fremand, Alice, Aulicino, Giuseppe, Gao, Alex, Minch, Melinda, Tronstad, Stein, … Schneider, Olaf. (2023). POLDER best practice guide to implementing schema.org for data discovery (1.0). Zenodo. https://doi.org/10.5281/zenodo.7787161
 
 
 # Use cases
