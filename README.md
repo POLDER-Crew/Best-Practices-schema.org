@@ -13,6 +13,10 @@ This document aims to utilize schema.org for the Polar data management community
 
 Completed v1.0 Version Release is now published on Zenodo: https://zenodo.org/record/7787161#.ZE_DZ-xuejA
 
+The finalized V1.0 of the Best Practices document has been accepted and archived at Ocean Best Practices: https://repository.oceanbestpractices.org/handle/11329/2301
+
+The WDS-ITO has also published an article outlining the work completed for the one year Pilot of the Polar Federated Search, this article can be found here: https://doi.org/10.1016/j.polar.2023.100947
+
 Citation: Bricher, Pip, Verhey, Chantelle, Duerr, Ruth, Ingram, Rebekah, Pulsifer, Peter, Collins, Julia, Jones, Matthew, de Bruin, Taco, Manley, William, Christoffersen, Shannon, Budden, Amber, Van de Putte, Anton, Gaylord, Allison, Tacoma, Marten, Fremand, Alice, Aulicino, Giuseppe, Gao, Alex, Minch, Melinda, Tronstad, Stein, … Schneider, Olaf. (2023). POLDER best practice guide to implementing schema.org for data discovery (1.0). Zenodo. https://doi.org/10.5281/zenodo.7787161
 
 
